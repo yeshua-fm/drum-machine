@@ -1,0 +1,40 @@
+body {
+    background-color: black;
+    margin: 0;
+    padding: 0;
+}
+.container {
+    display: flex;
+  background-color: black;
+  min-height: 100vh;
+  width: auto;
+  align-items: center;
+  justify-content: center;
+  
+
+
+}
+.grid-container{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+
+    height: 240px;
+    width: 240px;
+    gap: 10px;
+}
+.pad {
+    background-color:blue;
+
+}
+.pad:hover{
+    background-color: white;
+}
+.mpc{
+    margin-top: 10px;
+    margin-left: 10px;
+    color: white;
+    background-color: black;
+}
+.pad.active {
+    background-color: yellow;
+}
