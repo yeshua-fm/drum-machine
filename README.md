@@ -1,5 +1,5 @@
 
-#Drum Machine Demo
+# Drum Machine Demo
 ##Overview
 This drum machine demo allows users to play different drum and chord sounds using either their computer keyboard or by clicking on the drum pads displayed on the webpage. The sounds included are sourced from the Monte Booker sound collection, specifically tailored to include kicks, snares, hi-hats, and chords.
 
