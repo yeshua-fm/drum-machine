@@ -8,11 +8,14 @@ Keyboard Triggering: Each drum pad can be activated by pressing specific keys on
 Mouse Click Triggering: Users can also trigger the sounds by clicking on the corresponding drum pad on the webpage.
 Visual Feedback: Drum pads provide visual feedback by changing color when active, enhancing the user interaction experience.
 Setup
-### HTML: Ensure the index.html file is set up with a structure containing a series of div elements with class pad and unique classes from pad1 to pad8 for the active drum pads. Additional pads are included but not used in this demo.
+### HTML: 
+Ensure the index.html file is set up with a structure containing a series of div elements with class pad and unique classes from pad1 to pad8 for the active drum pads. Additional pads are included but not used in this demo.
 
-### CSS: Verify the inclusion of the styles.css file in the project to apply the visual styles for the drum pads, including colors for default, hover, and active states, as well as layout adjustments.
+### CSS: 
+Verify the inclusion of the styles.css file in the project to apply the visual styles for the drum pads, including colors for default, hover, and active states, as well as layout adjustments.
 
-### JavaScript: The app.js file contains the logic for triggering sounds and managing pad states. It maps keyboard keys to drum pad sounds and manages the playback and visual feedback.
+### JavaScript: 
+The app.js file contains the logic for triggering sounds and managing pad states. It maps keyboard keys to drum pad sounds and manages the playback and visual feedback.
 
 ## Usage
 Start: Load the HTML page in a browser to start the drum machine. Ensure all related files (app.js, styles.css, and sound files) are correctly placed in your project directory.
